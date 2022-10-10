@@ -9,8 +9,8 @@ Example 1 in notebooks are for still images, do not work. Example 2 works for tw
 - run the example 2 
 - to exit
     - on mac forece quit
-    - windows force quit
-    - linux force quit
+    - on windows force quit
+    - on linux force quit
     - (press 'q' to exit do not work as it should)
 
 ## Status

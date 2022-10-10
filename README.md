@@ -7,7 +7,11 @@ Example 1 in notebooks are for still images, do not work. Example 2 works for tw
 ## Instructions
 - clone repo
 - run the example 2 
-- press 'q' for exiting the program
+- to exit
+    - on mac forece quit
+    - windows force quit
+    - linux force quit
+    - (press 'q' to exit do not work as it should)
 
 ## Status
 - notebooks/example2: working.
